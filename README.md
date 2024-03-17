@@ -1,4 +1,4 @@
-Belly Button Challenge
+<h1>Belly Button Challenge
 
 <!DOCTYPE html>
 <html lang="en">
